@@ -1,0 +1,27 @@
+_repo: Siouan-Sociology_19518
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dorsey, James Owen
+    alias: Dorsey, J. Owen (James Owen)
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '7103'
+    url: http://www.gutenberg.org/2009/agents/7103
+description: ''
+gutenberg_issued: '2006-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Siouan Indians'
+title: Siouan Sociology
+url: http://www.gutenberg.org/ebooks/19518
